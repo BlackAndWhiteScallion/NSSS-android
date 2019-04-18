@@ -1,0 +1,445 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: j2RBw65RT4zScmfDMfJst0s2bxU=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: Gkiih6G+NC2dc+PO1f52ubmEBrg=
+
+Name: assets/www/LICENSE
+SHA1-Digest: AWKfJ3oiaBV2KyzB63XoRjrRPU4=
+
+Name: assets/www/app/color.css
+SHA1-Digest: gkQA+WX7Xn2KTQ5l3JuNrfijWig=
+
+Name: assets/www/app/index.css
+SHA1-Digest: y/S/d1QaZ0/hY2yIwYwTCf7R75w=
+
+Name: assets/www/app/index.js
+SHA1-Digest: gN5eOhGJZRfBoRTtvtYMuYkXkKQ=
+
+Name: assets/www/app/redirect.js
+SHA1-Digest: qofuo8mXVbdEFjxrnnU0rQF0O0s=
+
+Name: assets/www/app/xinwei.ttf
+SHA1-Digest: fufzQ9rNCdtr2T1Gn7zx3IxthNk=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: 38WtpiAj5vmsHOuyTUe8kYOXH14=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: JIRUfP79NI5t078vJIq/tww/QEA=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: zSlTRU8HxUISyyqDCPgSSJgcj+g=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: WMSkc0u+fBApAiUe86W9D5KufB4=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: DyNoltEL4yj1M0KRnp7t1ESe+Fo=
+
+Name: assets/www/cordova.js
+SHA1-Digest: y8/Cqsd8uFW4FEy0fgQd1ndijSw=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: MOhNAjXDTdE7vZ7jyUKDjM2/gmc=
+
+Name: assets/www/index.html
+SHA1-Digest: j0I/2PQUna8PUV4pBo6RNYc7ubc=
+
+Name: assets/www/main.js
+SHA1-Digest: JkS6g3Bond0aWAXKnZ76dF3eMRk=
+
+Name: assets/www/package.json
+SHA1-Digest: lHHP9ig+88YboyNffRQNRTgPvg4=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/android/notificati
+ on.js
+SHA1-Digest: QRR7prLvSbglV7uWJCdsiDZ0igQ=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/notification.js
+SHA1-Digest: jixSSnNVeunkotE0PObFv2jS9h4=
+
+Name: assets/www/plugins/cordova-plugin-file-transfer/www/FileTransfer
+ .js
+SHA1-Digest: pCtzkBS46xMWdCE2SX6v9wB7vzM=
+
+Name: assets/www/plugins/cordova-plugin-file-transfer/www/FileTransfer
+ Error.js
+SHA1-Digest: gg8KkTfQIjIH2EDyH+WZSyXcuAM=
+
+Name: assets/www/plugins/cordova-plugin-file/www/DirectoryEntry.js
+SHA1-Digest: fSneTq62mFK5syVNnziSb1NaxJI=
+
+Name: assets/www/plugins/cordova-plugin-file/www/DirectoryReader.js
+SHA1-Digest: 87mxcmAnSMqpvZ9HEJkPPW6awzI=
+
+Name: assets/www/plugins/cordova-plugin-file/www/Entry.js
+SHA1-Digest: dhQXX+8EAuYZzITuBOur83HkAzw=
+
+Name: assets/www/plugins/cordova-plugin-file/www/File.js
+SHA1-Digest: CU7Gk3y90aPQ9GSMXAJ60Z+QVHQ=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileEntry.js
+SHA1-Digest: f43gQV+aF0HCws4LibGYdJoiWKk=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileError.js
+SHA1-Digest: skIRQcTKz8zTXtsZkSUoDfyckSI=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileReader.js
+SHA1-Digest: jLseLx1kBPvj1iCJM1UbKnIWS/I=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileSystem.js
+SHA1-Digest: M4rAoTQ4S/euOR/Kk/47adPeYXk=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileUploadOptions.js
+SHA1-Digest: c6qqp60CDC7lcEUhfPHQtsRiY2U=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileUploadResult.js
+SHA1-Digest: fdtF/5AkNuCc/j14QtYdYBmv05Q=
+
+Name: assets/www/plugins/cordova-plugin-file/www/FileWriter.js
+SHA1-Digest: f8LnGMOzApCmvSU6vlNsWMNhHaY=
+
+Name: assets/www/plugins/cordova-plugin-file/www/Flags.js
+SHA1-Digest: As5lNueeCAEqhtEQqUc37dt0ojU=
+
+Name: assets/www/plugins/cordova-plugin-file/www/LocalFileSystem.js
+SHA1-Digest: yXEOCQN57N9DGPg7mMMfi9gkE40=
+
+Name: assets/www/plugins/cordova-plugin-file/www/Metadata.js
+SHA1-Digest: sdbeSfxds/XPzGtN+LxqVfHbEd8=
+
+Name: assets/www/plugins/cordova-plugin-file/www/ProgressEvent.js
+SHA1-Digest: U9DYFL29Zd2bn5qMq+XhiXd3pws=
+
+Name: assets/www/plugins/cordova-plugin-file/www/android/FileSystem.js
+SHA1-Digest: FZ97tGHloMDBQEh+rJs1pRYG/8U=
+
+Name: assets/www/plugins/cordova-plugin-file/www/browser/isChrome.js
+SHA1-Digest: 6SQuF/+9UgPb3r2yMoVi2/dmfb4=
+
+Name: assets/www/plugins/cordova-plugin-file/www/fileSystemPaths.js
+SHA1-Digest: ClY0A20E9CX9HQnZ3e9erXbm0mI=
+
+Name: assets/www/plugins/cordova-plugin-file/www/fileSystems-roots.js
+SHA1-Digest: OQlLLj5fg5ElRhtSoiXlla9PyQw=
+
+Name: assets/www/plugins/cordova-plugin-file/www/fileSystems.js
+SHA1-Digest: A7i344MVIUHrFzabPuvlg2CZieM=
+
+Name: assets/www/plugins/cordova-plugin-file/www/requestFileSystem.js
+SHA1-Digest: a+OmGt857Lvy4dd1u88nHrNjlbw=
+
+Name: assets/www/plugins/cordova-plugin-file/www/resolveLocalFileSyste
+ mURI.js
+SHA1-Digest: zc0X6mxjOkPfJFG7htF128ba/5Q=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: YU4qu7TpiL0V6p+PcPUl72okBvM=
+
+Name: assets/www/plugins/cordova-plugin-vibration/www/vibration.js
+SHA1-Digest: Qz97UZFieUUhLedh7bIkn3HTtxY=
+
+Name: assets/www/plugins/cordova-plugin-whitelist/whitelist.js
+SHA1-Digest: MoyJOyBLOGY52NDXvZ3+1dLPrpQ=
+
+Name: assets/xwalk-command-line
+SHA1-Digest: rVnWJvhG6/v2mugy19OH/JhV2/U=
+
+Name: classes.dex
+SHA1-Digest: bWyy1UjQCHuwNHzW7Kr1p2d3mIg=
+
+Name: lib/armeabi-v7a/libxwalkcore.so
+SHA1-Digest: RE0tchAmeBY+aGdH3Zfsu6SSfBU=
+
+Name: lib/armeabi-v7a/libxwalkdummy.so
+SHA1-Digest: XnbaioC8BV4r0TsPybBBsDFqUhM=
+
+Name: res/drawable-hdpi-v4/bubble.9.png
+SHA1-Digest: XwQPXaVjDKtK0QnO381QyY+s49s=
+
+Name: res/drawable-hdpi-v4/bubble_arrow_up.png
+SHA1-Digest: A253noLx56luX6BI8W0GAlhmRsw=
+
+Name: res/drawable-hdpi-v4/color_picker_advanced_select_handle.png
+SHA1-Digest: EkpzvI/j2va3ysxw9FYm5rCK6JI=
+
+Name: res/drawable-hdpi-v4/dropdown_popup_background_down.9.png
+SHA1-Digest: Vjd4bueMcPq5Kp+HvzzCuOMq5d8=
+
+Name: res/drawable-hdpi-v4/dropdown_popup_background_up.9.png
+SHA1-Digest: G7wWotjO6B4DhZ2jSSIr12sJDVM=
+
+Name: res/drawable-hdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: 8BQ5pRxJBsx6vGB4RscBF46Ih40=
+
+Name: res/drawable-hdpi-v4/ic_search.png
+SHA1-Digest: 1yO9KaNfY5r0YkhereqIi53mceU=
+
+Name: res/drawable-hdpi-v4/ic_warning.png
+SHA1-Digest: dIliSeje0F3HBqM+FNRCttsFyo4=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 680hKjzaQJ7MR5GCsEJC78Kt3K4=
+
+Name: res/drawable-hdpi-v4/ondemand_overlay.9.png
+SHA1-Digest: ukhqdvd0HrBxnpahBigsuFZRd9s=
+
+Name: res/drawable-hdpi-v4/verify_checkmark.png
+SHA1-Digest: 9NOMXDVb8IA6BLpz60whlYubvkE=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: bXb84R6AwUi8YonOngTUAJFO5h0=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: Mxh4VKnokbsVVv+1G/mjTHKMXVY=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: HOQF87hkXmQHFPCzo++IXKFZ3SA=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: g4/FfRdKTW6/6UhjeQcPkdKBg9k=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: N4stbs+T7lpz4qxaeSv8Q3uHJdQ=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: KsqSeqSjn6/Uxgaf3G7T3wLeTI4=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: vsx4MOV7SCBhRLA1kMw20dttKhk=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: 759P0uTe2120dBzuZlbDMN0wDgw=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: z7DS+0kvVEl7oGNHZozhdzEo0VA=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: V6A6WdYa3rJZr5dAEjZnGZhxuQk=
+
+Name: res/drawable-v21/button_borderless_compat.xml
+SHA1-Digest: t8lV+ZN7PMHnmVKSbdsEOTjIjA8=
+
+Name: res/drawable-v21/button_compat.xml
+SHA1-Digest: DxGiqlmZx6saygmQp9m7UNDis4E=
+
+Name: res/drawable-xhdpi-v4/bubble.9.png
+SHA1-Digest: QlAkOmS1b4zNuXfuzlALtvGbBm4=
+
+Name: res/drawable-xhdpi-v4/bubble_arrow_up.png
+SHA1-Digest: GpDUr09PQVBTXvTk0mVnOr5cVPc=
+
+Name: res/drawable-xhdpi-v4/color_picker_advanced_select_handle.png
+SHA1-Digest: q8aklqG5PCcQep+kKQUaqREh30E=
+
+Name: res/drawable-xhdpi-v4/dropdown_popup_background_down.9.png
+SHA1-Digest: JO12AFJC3keG3C1SQc4cT/OzsnQ=
+
+Name: res/drawable-xhdpi-v4/dropdown_popup_background_up.9.png
+SHA1-Digest: vSqQKK3PSTxOUpvbCiEvV7iSrKI=
+
+Name: res/drawable-xhdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: JZmuhkAndnIM5YCry5hF5rniUbg=
+
+Name: res/drawable-xhdpi-v4/ic_search.png
+SHA1-Digest: kA+Iia+qziotCH6d2Ie6fLQWGag=
+
+Name: res/drawable-xhdpi-v4/ic_warning.png
+SHA1-Digest: zbSxsH8kgxzBl2ztWVM6LWa468A=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: x1ennOZKbDxy+agkUr8doM1Rk+A=
+
+Name: res/drawable-xhdpi-v4/ondemand_overlay.9.png
+SHA1-Digest: vZyyvhFLfr66TaCb7S3tJkGjZAo=
+
+Name: res/drawable-xhdpi-v4/verify_checkmark.png
+SHA1-Digest: MMkBu6Z7EHlS3jNtvIITktO5CSE=
+
+Name: res/drawable-xxhdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: tv34i/Z9a+x9FqfuNKAF/fD8pGQ=
+
+Name: res/drawable-xxhdpi-v4/ic_search.png
+SHA1-Digest: 7h+2fYgW18SQ+JctAJPWZzX/WB8=
+
+Name: res/drawable-xxhdpi-v4/ic_warning.png
+SHA1-Digest: y7FqCTU2dxr5+aOuL5w6VHF+e1w=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: zqBd1VqSKmjfHe9xUBDO5F+PoH0=
+
+Name: res/drawable-xxhdpi-v4/verify_checkmark.png
+SHA1-Digest: ZSkQ8PkAUqkSbWP3R5/76B4ce8w=
+
+Name: res/drawable-xxxhdpi-v4/ic_menu_share_holo_light.png
+SHA1-Digest: ov5g163dC60kBERIjvNWH1+MHVY=
+
+Name: res/drawable-xxxhdpi-v4/ic_search.png
+SHA1-Digest: nuBGOfZYO/+JMVXEpdSxKFieNfE=
+
+Name: res/drawable-xxxhdpi-v4/ic_warning.png
+SHA1-Digest: PMpdlY5XMBOc84OWQF9pl0FRvis=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: lEp2o+5I7zCYFzPQ/IpfTw3GjLQ=
+
+Name: res/drawable-xxxhdpi-v4/verify_checkmark.png
+SHA1-Digest: UHHZ7aMqY8YZ+o1lBbGJShqAmok=
+
+Name: res/drawable/autofill_chip_inset.xml
+SHA1-Digest: 27MXqw7+uVRCeCdHm1wdPNaWtl0=
+
+Name: res/drawable/bubble.9.png
+SHA1-Digest: +E0KAsn2vevbWNAppw8HhvBk/Gw=
+
+Name: res/drawable/bubble_arrow_up.png
+SHA1-Digest: tLKaQ9T+5ep9wZ723DAXkk8hfig=
+
+Name: res/drawable/button_compat_shape.xml
+SHA1-Digest: gBZMOqZ6jE7VwG+o/NU/k4J3vx4=
+
+Name: res/drawable/color_button_background.xml
+SHA1-Digest: 41JM/w+nZEHhFMc9a8i4EN7cm1c=
+
+Name: res/drawable/color_picker_advanced_select_handle.png
+SHA1-Digest: 9YLG8j16vtbcmW0mm6eXSezO16o=
+
+Name: res/drawable/color_picker_border.xml
+SHA1-Digest: bLDBhvHebTx7k9Xa1341eJ0jzQA=
+
+Name: res/drawable/dropdown_popup_background.xml
+SHA1-Digest: C0Qp2Zu+ZvdKZINgWBixhctaFJg=
+
+Name: res/drawable/dropdown_popup_background_down.9.png
+SHA1-Digest: eYxuJHacY6EIOW9A9CWkeJtkUPA=
+
+Name: res/drawable/dropdown_popup_background_up.9.png
+SHA1-Digest: TUrZV7KCnOV1omGMunufgRg5oEM=
+
+Name: res/drawable/ic_menu_share_holo_light.png
+SHA1-Digest: vTuqrWErL9l0qsG2OO5NPiEtMIA=
+
+Name: res/drawable/ic_search.png
+SHA1-Digest: 0A9IvxMPYGyXMXWKBIQlq/ddtLw=
+
+Name: res/drawable/ic_warning.png
+SHA1-Digest: BZ4SCfNLR0o87AE6s7F60CmxLwI=
+
+Name: res/drawable/icon.png
+SHA1-Digest: n4vnACoxrLMYFWajukSBfv/PYRk=
+
+Name: res/drawable/ondemand_overlay.9.png
+SHA1-Digest: oqQRZ0+eodYKSA13joN8w8BDBMA=
+
+Name: res/drawable/verify_checkmark.png
+SHA1-Digest: Rn22E9k/ebCYpZMzKK2ULtdoFw4=
+
+Name: res/layout-land-v21/date_time_picker_dialog.xml
+SHA1-Digest: +VuMECOgCH5EcdsznUA+HiuEzo0=
+
+Name: res/layout-land/date_time_picker_dialog.xml
+SHA1-Digest: FzwB+RKcS4gNU9D1sLxQhFlugD8=
+
+Name: res/layout-v16/autofill_keyboard_accessory_item.xml
+SHA1-Digest: PUR+Wkn0dqN4mfCX8IKCVfXpejg=
+
+Name: res/layout-v17/autofill_keyboard_accessory_item.xml
+SHA1-Digest: XS8DwtALmrTDAiwjZvw0regPeqY=
+
+Name: res/layout-v17/color_picker_advanced_component.xml
+SHA1-Digest: DVZEYXTnzKeppiudLgE+0Tc08Wo=
+
+Name: res/layout-v17/color_picker_dialog_content.xml
+SHA1-Digest: onrZgEcUmPd5VSmbK55JHyHCt/A=
+
+Name: res/layout-v17/color_picker_dialog_title.xml
+SHA1-Digest: q3an9SKLHfwIgtu3iTyzL+SbVg0=
+
+Name: res/layout-v17/date_time_suggestion.xml
+SHA1-Digest: sGTcBNC0F6ELdzuWmP1EcqGpVCc=
+
+Name: res/layout-v17/dropdown_item.xml
+SHA1-Digest: 1TMPkJ54Kbg1cSDlKJM/Zk70tLo=
+
+Name: res/layout-v17/multi_field_time_picker_dialog.xml
+SHA1-Digest: k4QOgYNkmBgaWP9GxbEwIi0cbeg=
+
+Name: res/layout-v17/two_field_date_picker.xml
+SHA1-Digest: 6e20i70LSNC0y9EcQ70mwue/4LA=
+
+Name: res/layout-v17/validation_message_bubble.xml
+SHA1-Digest: KDgAFCalCbRgRbNP99ehsv2HUSA=
+
+Name: res/layout-v21/date_time_picker_dialog.xml
+SHA1-Digest: GXTN+fOr+oXzngBf6oPQx3K+29E=
+
+Name: res/layout/autofill_keyboard_accessory_icon.xml
+SHA1-Digest: stOxin1E9OiBLG3YEffaQixboZQ=
+
+Name: res/layout/autofill_keyboard_accessory_item.xml
+SHA1-Digest: wsJ7kl3KonxpYGFamH6oj5cxe6s=
+
+Name: res/layout/color_picker_advanced_component.xml
+SHA1-Digest: omvWqZ7RnhY1Ut3S9RXGNFftMlM=
+
+Name: res/layout/color_picker_dialog_content.xml
+SHA1-Digest: FiJV3a7IAWbNX4fwSeLV/e7zqXs=
+
+Name: res/layout/color_picker_dialog_title.xml
+SHA1-Digest: jBmb/Hbz9ITSLNaAGHV2OzIK5xE=
+
+Name: res/layout/date_time_picker_dialog.xml
+SHA1-Digest: JC/YIehOSgzdddV/x9y1SszX8os=
+
+Name: res/layout/date_time_suggestion.xml
+SHA1-Digest: 6KVgFHF3AkAM8tc8fGB+/G0BygM=
+
+Name: res/layout/dropdown_item.xml
+SHA1-Digest: EE5FqSTJPhTr/OU146pBLjL00IM=
+
+Name: res/layout/multi_field_time_picker_dialog.xml
+SHA1-Digest: 2Ec8OX+SUt2K3YhhPelJDibZbJM=
+
+Name: res/layout/two_field_date_picker.xml
+SHA1-Digest: /3lvrGBOlE27+ywx3QOMtRuXH4k=
+
+Name: res/layout/validation_message_bubble.xml
+SHA1-Digest: aWqBlSLyw7lXWKGg8LaE9EjsTYg=
+
+Name: res/menu/select_action_menu.xml
+SHA1-Digest: GmTikv415jxs6Juaq9Q//LfDr+0=
+
+Name: res/raw/contacts_api.js
+SHA1-Digest: 0rDpScJ1oON8HPwF826GxBc+MdE=
+
+Name: res/raw/device_capabilities_api.js
+SHA1-Digest: LCpNENLSAHAYXUQ/9Fx5w3MBoLU=
+
+Name: res/raw/icudtl.dat
+SHA1-Digest: W31H0MLaJO1LDxWixIWR5eZHV24=
+
+Name: res/raw/launch_screen_api.js
+SHA1-Digest: J2gR0Z4FdQ5+XieqOP3ScgUfV4o=
+
+Name: res/raw/messaging_api.js
+SHA1-Digest: 8yjNxdlwEPc5icCcsQ3t3kA5HnE=
+
+Name: res/raw/presentation_api.js
+SHA1-Digest: a3X7hOdbpN3eBpDIs9mATzm+Gkw=
+
+Name: res/raw/wifidirect_api.js
+SHA1-Digest: 2N7J4sESSCU4xr8CrDIVESiE87U=
+
+Name: res/raw/xwalk.pak
+SHA1-Digest: 4GjliK3/+np4d+wtCoO/5ZZq7J8=
+
+Name: res/xml/config.xml
+SHA1-Digest: j1oVCBL6c0SR8mvqZO8nQMrXb68=
+
+Name: resources.arsc
+SHA1-Digest: CaJLOkFtk/bfY8Dci+TK/2UtE/E=
+
