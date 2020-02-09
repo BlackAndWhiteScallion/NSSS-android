@@ -18,7 +18,8 @@
         },
         onDeviceReady: function() {
             var site_g='https://raw.githubusercontent.com/BlackAndWhiteScallion/Night-of-Shooting-Stars/';
-            var site_c='https://dev.tencent.com/u/BWS/p/Night-of-Shooting-Stars/git/raw/';
+            var site_c='https://bws.coding.net/p/Night-of-Shooting-Stars/d/Night-of-Shooting-Stars/git/raw/';
+            var site_c2='https://gitee.com/b_2/noss/raw/';
             var site=site_c;
             var button,changesite,help,version,versionnode;
             var req=function(url,onload,onerror,target){
@@ -229,7 +230,7 @@
 
             changesite=document.createElement('div');
             changesite.id='changesite';
-            changesite.innerHTML='切换下载源  当前下载源为：(国内镜像)'+site;
+            changesite.innerHTML='<u>切换下载源</u>  当前下载源为：(国内镜像1) 腾讯';
             document.body.appendChild(changesite);
 
             versionnode=document.createElement('div');
@@ -241,7 +242,7 @@
             helpnode.id='noname_init_help';
             var helpnodetext=document.createElement('div');
             helpnodetext.innerHTML=
-            '<div><ol><li>访问<a href="https://github.com/BlackAndWhiteScallion/Night-of-Shooting-Stars/releases/latest">https://github.com/BlackAndWhiteScallion/Night-of-Shooting-Stars/releases/latest</a>，下载zip文件'+
+            '<div><ol><li>访问<a href=' + site.slice(-4, 0)=='raw/'?site.slice(0, -4):site +'</a>，下载zip文件'+
             '<li>解压后将所有文件放入对应文件夹：<br>windows/linux：resources/app<br>mac：（右键显示包内容）contents/resources/app<br>android：android/data/com.widget.noname<br>ios：documents（itunes—应用—文件共享）'+
             '<li>完成上述步骤后，<a href="javascript:localStorage.setItem(\'noname_inited\',window.tempSetNoname);window.location.reload()">点击此处</a></div>';
             helpnode.appendChild(helpnodetext);
@@ -267,16 +268,21 @@
                 window.tempSetNoname='nodejs';
             }
             changesite.onclick=function(){
-                var h = '(国内镜像)';
-                if(this.classList.toggle('bluetext')){
+                var h = '(国内镜像1) 腾讯';
+                if (site == site_c){
+                    /*
+                    site=site_c2;
+                    h = '(国内镜像2) 码云';
+                } else if (site == site_c2){
+                    */
+                    this.classList.toggle('bluetext');
                     site=site_g;
-                    h = '(国外镜像)';
-                }
-                else{
+                    h = '(国外镜像) github';
+                } else {
+                    this.classList.toggle('bluetext');
                     site=site_c;
-                    h = '(国内镜像)';
                 }
-                this.innerHTML='切换下载源 当前下载源为：'+h+site;
+                this.innerHTML='切换下载源 当前下载源：'+h;
                 checkConnection();
             };
         }

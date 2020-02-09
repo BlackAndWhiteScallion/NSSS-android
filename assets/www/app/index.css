@@ -68,6 +68,10 @@ a{
     width: auto;
 }
 #changesite.bluetext{
+    text-shadow: black 0 0 1px,rgb(0, 47, 255) 0 0 2px,rgba(0, 47, 255,1) 0 0 2px,rgba(0, 47, 255,1) 0 0 2px,
+		rgba(0, 47, 255,1) 0 0 2px,black 0 0 1px;
+}
+#changesite.yellowtext{
     text-shadow: black 0 0 1px,rgba(255, 203, 0,1) 0 0 2px,rgba(255, 203, 0,1) 0 0 2px,rgba(255, 203, 0,1) 0 0 2px,
 		rgba(255, 203, 0,1) 0 0 2px,black 0 0 1px;
 }
