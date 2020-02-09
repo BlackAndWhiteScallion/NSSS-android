@@ -16,11 +16,11 @@
     <public type="drawable" name="ic_menu_share_holo_light" id="0x7f02000c" />
     <public type="drawable" name="ic_search" id="0x7f02000d" />
     <public type="drawable" name="ic_warning" id="0x7f02000e" />
+    <public type="drawable" name="icon" id="0x7f02000f" />
     <public type="drawable" name="ondemand_overlay" id="0x7f020010" />
     <public type="drawable" name="verify_checkmark" id="0x7f020012" />
     <public type="drawable" name="button_borderless_compat" id="0x7f020003" />
     <public type="drawable" name="button_compat" id="0x7f020004" />
-    <public type="drawable" name="icon" id="0x7f02000f" />
     <public type="drawable" name="screen" id="0x7f020011" />
     <public type="layout" name="autofill_keyboard_accessory_icon" id="0x7f030000" />
     <public type="layout" name="autofill_keyboard_accessory_item" id="0x7f030001" />

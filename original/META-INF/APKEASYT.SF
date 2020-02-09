@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA1-Digest-Manifest: j2RBw65RT4zScmfDMfJst0s2bxU=
+SHA1-Digest-Manifest: pkw6QOP7oxxt1l88csLfH15VW7Q=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA1-Digest: Gkiih6G+NC2dc+PO1f52ubmEBrg=
+SHA1-Digest: EW3kSy0j29rRbpzlsu260M+gO9c=
 
 Name: assets/www/LICENSE
 SHA1-Digest: AWKfJ3oiaBV2KyzB63XoRjrRPU4=
@@ -16,7 +16,7 @@ Name: assets/www/app/index.css
 SHA1-Digest: y/S/d1QaZ0/hY2yIwYwTCf7R75w=
 
 Name: assets/www/app/index.js
-SHA1-Digest: gN5eOhGJZRfBoRTtvtYMuYkXkKQ=
+SHA1-Digest: WYE7uwGPNpCBdSzDtJTZ7FT0OxU=
 
 Name: assets/www/app/redirect.js
 SHA1-Digest: qofuo8mXVbdEFjxrnnU0rQF0O0s=
@@ -183,7 +183,7 @@ Name: res/drawable-hdpi-v4/ic_warning.png
 SHA1-Digest: dIliSeje0F3HBqM+FNRCttsFyo4=
 
 Name: res/drawable-hdpi-v4/icon.png
-SHA1-Digest: 680hKjzaQJ7MR5GCsEJC78Kt3K4=
+SHA1-Digest: 2e6/YiWuHxlt5bfHYphxbyXKKTQ=
 
 Name: res/drawable-hdpi-v4/ondemand_overlay.9.png
 SHA1-Digest: ukhqdvd0HrBxnpahBigsuFZRd9s=
@@ -192,22 +192,22 @@ Name: res/drawable-hdpi-v4/verify_checkmark.png
 SHA1-Digest: 9NOMXDVb8IA6BLpz60whlYubvkE=
 
 Name: res/drawable-land-hdpi-v4/screen.png
-SHA1-Digest: bXb84R6AwUi8YonOngTUAJFO5h0=
+SHA1-Digest: Tc8PlEFrYn25yVazgxzNy1CXAQQ=
 
 Name: res/drawable-land-ldpi-v4/screen.png
-SHA1-Digest: Mxh4VKnokbsVVv+1G/mjTHKMXVY=
+SHA1-Digest: BJA97xQJyqXGdML8d4mQXKrBegs=
 
 Name: res/drawable-land-mdpi-v4/screen.png
-SHA1-Digest: HOQF87hkXmQHFPCzo++IXKFZ3SA=
+SHA1-Digest: SyAfLvsJquhh0BQrvfrzvS6opGM=
 
 Name: res/drawable-land-xhdpi-v4/screen.png
-SHA1-Digest: g4/FfRdKTW6/6UhjeQcPkdKBg9k=
+SHA1-Digest: CPDYKdM2k8h67yO90A6nOLCHop4=
 
 Name: res/drawable-ldpi-v4/icon.png
-SHA1-Digest: N4stbs+T7lpz4qxaeSv8Q3uHJdQ=
+SHA1-Digest: m7HsJLpVSSGluhvFmc/jkE5pT64=
 
 Name: res/drawable-mdpi-v4/icon.png
-SHA1-Digest: KsqSeqSjn6/Uxgaf3G7T3wLeTI4=
+SHA1-Digest: avYh7Fo0axOlLB66JgGje0dCMLc=
 
 Name: res/drawable-port-hdpi-v4/screen.png
 SHA1-Digest: vsx4MOV7SCBhRLA1kMw20dttKhk=
@@ -252,7 +252,7 @@ Name: res/drawable-xhdpi-v4/ic_warning.png
 SHA1-Digest: zbSxsH8kgxzBl2ztWVM6LWa468A=
 
 Name: res/drawable-xhdpi-v4/icon.png
-SHA1-Digest: x1ennOZKbDxy+agkUr8doM1Rk+A=
+SHA1-Digest: BA/q86vsJZJ0DoRNuEOlE1C40h0=
 
 Name: res/drawable-xhdpi-v4/ondemand_overlay.9.png
 SHA1-Digest: vZyyvhFLfr66TaCb7S3tJkGjZAo=
@@ -270,7 +270,7 @@ Name: res/drawable-xxhdpi-v4/ic_warning.png
 SHA1-Digest: y7FqCTU2dxr5+aOuL5w6VHF+e1w=
 
 Name: res/drawable-xxhdpi-v4/icon.png
-SHA1-Digest: zqBd1VqSKmjfHe9xUBDO5F+PoH0=
+SHA1-Digest: b3djcsePPr3nEVzdg1G92HhKnDE=
 
 Name: res/drawable-xxhdpi-v4/verify_checkmark.png
 SHA1-Digest: ZSkQ8PkAUqkSbWP3R5/76B4ce8w=
@@ -285,7 +285,7 @@ Name: res/drawable-xxxhdpi-v4/ic_warning.png
 SHA1-Digest: PMpdlY5XMBOc84OWQF9pl0FRvis=
 
 Name: res/drawable-xxxhdpi-v4/icon.png
-SHA1-Digest: lEp2o+5I7zCYFzPQ/IpfTw3GjLQ=
+SHA1-Digest: 0R9PsRlqHmv6IJi8zAWa6ekqdM4=
 
 Name: res/drawable-xxxhdpi-v4/verify_checkmark.png
 SHA1-Digest: UHHZ7aMqY8YZ+o1lBbGJShqAmok=
@@ -330,7 +330,7 @@ Name: res/drawable/ic_warning.png
 SHA1-Digest: BZ4SCfNLR0o87AE6s7F60CmxLwI=
 
 Name: res/drawable/icon.png
-SHA1-Digest: n4vnACoxrLMYFWajukSBfv/PYRk=
+SHA1-Digest: LHpJ/sUxHCOZld15ra2ADh9p1B4=
 
 Name: res/drawable/ondemand_overlay.9.png
 SHA1-Digest: oqQRZ0+eodYKSA13joN8w8BDBMA=

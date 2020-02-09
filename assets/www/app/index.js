@@ -229,7 +229,7 @@
 
             changesite=document.createElement('div');
             changesite.id='changesite';
-            changesite.innerHTML='切换下载源  当前下载源为'+site;
+            changesite.innerHTML='切换下载源  当前下载源为：(国内镜像)'+site;
             document.body.appendChild(changesite);
 
             versionnode=document.createElement('div');
@@ -267,13 +267,16 @@
                 window.tempSetNoname='nodejs';
             }
             changesite.onclick=function(){
+                var h = '(国内镜像)';
                 if(this.classList.toggle('bluetext')){
                     site=site_g;
+                    h = '(国外镜像)';
                 }
                 else{
                     site=site_c;
+                    h = '(国内镜像)';
                 }
-                this.innerHTML='切换下载源 当前下载源为：'+site;
+                this.innerHTML='切换下载源 当前下载源为：'+h+site;
                 checkConnection();
             };
         }

@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: bpROhzPc5tXS33U/U5F8fqDhcWE=
+SHA1-Digest: DsgkpNgxLLuqpr1HE1JTUPd7rEI=
 
 Name: assets/www/LICENSE
 SHA1-Digest: cMT4xGPOlF6GpTX1jQcHV0TAEBQ=
@@ -13,7 +13,7 @@ Name: assets/www/app/index.css
 SHA1-Digest: 4Fno65KIXvq/+jtPA2PABayearI=
 
 Name: assets/www/app/index.js
-SHA1-Digest: YvZY1r5fwErjQQxMQrwXiAmylqY=
+SHA1-Digest: SAIEONSaNcmwZ+gKAS/XJrZ6VKw=
 
 Name: assets/www/app/redirect.js
 SHA1-Digest: LJiqWnwY8YkcQI1Al5PiBED/5+U=
@@ -180,7 +180,7 @@ Name: res/drawable-hdpi-v4/ic_warning.png
 SHA1-Digest: SMNnhtoUYuKUaNP0XDisdhqlVDo=
 
 Name: res/drawable-hdpi-v4/icon.png
-SHA1-Digest: cjsO5M2RIvwDltFNE2Sy4/sfSSA=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable-hdpi-v4/ondemand_overlay.9.png
 SHA1-Digest: sWWlNyBEgG3MvA7s6XD5X8qlzIc=
@@ -189,22 +189,22 @@ Name: res/drawable-hdpi-v4/verify_checkmark.png
 SHA1-Digest: NDpxgfAiykJu9uXqWeEimeJxitI=
 
 Name: res/drawable-land-hdpi-v4/screen.png
-SHA1-Digest: dF66fnHSfypEMzbBGBMv9JBezjQ=
+SHA1-Digest: 8hIhSEjNGxJZpTRHf7Z6qjShZ1w=
 
 Name: res/drawable-land-ldpi-v4/screen.png
-SHA1-Digest: dF66fnHSfypEMzbBGBMv9JBezjQ=
+SHA1-Digest: 8hIhSEjNGxJZpTRHf7Z6qjShZ1w=
 
 Name: res/drawable-land-mdpi-v4/screen.png
-SHA1-Digest: dF66fnHSfypEMzbBGBMv9JBezjQ=
+SHA1-Digest: 8hIhSEjNGxJZpTRHf7Z6qjShZ1w=
 
 Name: res/drawable-land-xhdpi-v4/screen.png
-SHA1-Digest: dF66fnHSfypEMzbBGBMv9JBezjQ=
+SHA1-Digest: 8hIhSEjNGxJZpTRHf7Z6qjShZ1w=
 
 Name: res/drawable-ldpi-v4/icon.png
-SHA1-Digest: cjsO5M2RIvwDltFNE2Sy4/sfSSA=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable-mdpi-v4/icon.png
-SHA1-Digest: cjsO5M2RIvwDltFNE2Sy4/sfSSA=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable-port-hdpi-v4/screen.png
 SHA1-Digest: /XJs+Y5ZTRYZRAqLC5t/FEpuKmE=
@@ -249,7 +249,7 @@ Name: res/drawable-xhdpi-v4/ic_warning.png
 SHA1-Digest: fFpi/QOFZwb+LxHeRu9EauvKx1Q=
 
 Name: res/drawable-xhdpi-v4/icon.png
-SHA1-Digest: mMpZwdVKZytXhz3lObJ5pNuf4Vs=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable-xhdpi-v4/ondemand_overlay.9.png
 SHA1-Digest: 5+1eSpNv1dcJ8fIjaiA/u0jW/qE=
@@ -267,7 +267,7 @@ Name: res/drawable-xxhdpi-v4/ic_warning.png
 SHA1-Digest: 9ElZdeeU33eYYEGBVDN6lzuzrKo=
 
 Name: res/drawable-xxhdpi-v4/icon.png
-SHA1-Digest: yZIrXDyCx0iMdx8R+AW9tkvdWyI=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable-xxhdpi-v4/verify_checkmark.png
 SHA1-Digest: bebVPnXE46arEVXImuGQ5vnHYGs=
@@ -282,7 +282,7 @@ Name: res/drawable-xxxhdpi-v4/ic_warning.png
 SHA1-Digest: /JGbEhp9jIMhEz0UC+++Wi2m1iQ=
 
 Name: res/drawable-xxxhdpi-v4/icon.png
-SHA1-Digest: mjFEuJ6iJIoj9pR0QAEnB9W43Xc=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable-xxxhdpi-v4/verify_checkmark.png
 SHA1-Digest: VhmA87/TLW/1cL6jJ1WArt7W9dc=
@@ -327,7 +327,7 @@ Name: res/drawable/ic_warning.png
 SHA1-Digest: an9T85+GytPhIkxW1XmOLeLb0uc=
 
 Name: res/drawable/icon.png
-SHA1-Digest: cjsO5M2RIvwDltFNE2Sy4/sfSSA=
+SHA1-Digest: RKwdJuECOzxHU0RK0tnaO8kc87w=
 
 Name: res/drawable/ondemand_overlay.9.png
 SHA1-Digest: 9wEu4afCDcE42kw8hkrbEHvjau0=
