@@ -5,8 +5,8 @@ const {BrowserWindow} = electron;
 let win;
 
 function createWindow() {
-    win = new BrowserWindow({width: 960, height: 660, title:'流星夜！'});
-    win.loadURL(`file://${__dirname}/index.html`);
+    win = new BrowserWindow({width: 1280, height: 960, title:'东方流星夜！'});
+    win.loadURL(`file://${__dirname}/app.html`);
     win.on('closed', () => {
         win = null;
     });
